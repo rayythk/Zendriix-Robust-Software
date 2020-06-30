@@ -5,17 +5,11 @@ Initial Function()
   //Sample Code
 }
 
-feature 1()
-{
-  //Sample Code
-}
-
+<<<<<<< HEAD
+Feature 1()
+=======
 feature 2()
-{
-  //Sample Code
-}
-
-feature 3()
+>>>>>>> feature2
 {
   //Sample Code
 }
